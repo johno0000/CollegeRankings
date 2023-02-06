@@ -1,5 +1,5 @@
 #Sample: 
-#  theGames = GetGames()
+#  theGames = GetAllGames()
 #  theRankings = Algorithm(1000, theGames)
 #  For each URL, run: tourney1 = GetGames(URL), then allGames = rbind(tourney1, tourney2, etc.), then theRankings = Algorithm(1000, allGames)
 
